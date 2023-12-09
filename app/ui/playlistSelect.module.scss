@@ -1,0 +1,17 @@
+@import "../variables.module.scss";
+.playlist_grid{
+    background-color: $tropical-indigo;
+    height: 100%;
+    border-radius: 10px;
+    flex-grow: 1;
+
+}
+
+.playlist_header{
+    border: 2px solid #f4f4f4;
+    border-radius:10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
